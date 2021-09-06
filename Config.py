@@ -1,0 +1,15 @@
+batch_size = 32
+epochs = 100
+lr = 0.01
+momentum = 0.9
+no_cuda =False
+cuda_id = '0'
+seed = 1
+log_interval = 10
+l2_decay = 5e-4
+class_num = 3
+param = 0.3
+bottle_neck = True
+root_path = "./dataset/plant_disease_3class_1800/"
+source_name = "grape-cassava"
+target_name = "grape"
