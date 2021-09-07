@@ -7,7 +7,7 @@ The official PyTorch implementation of Deep Mixed Subdomain Adaptation Networks
 
 ## Useage
 1. Run `makedir.py` to generate directories. 
-2. Put  the unzipped datasets into the folder "model_save".
+2. Put  the unzipped datasets into the folder "dataset".
 3. Run `DMSAN.py` to training models.
 
 ## Datasets
