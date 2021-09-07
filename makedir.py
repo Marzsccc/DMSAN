@@ -1,7 +1,3 @@
-# SetTime : 2021/9/1 19:38 
-# Coding : utf-8 
-# Author : marzsccc
-# Mail : marzsccc@163.com
 import os
 
 def mkdir(path):
