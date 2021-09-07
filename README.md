@@ -16,7 +16,7 @@ The official PyTorch implementation of Deep Mixed Subdomain Adaptation Networks
 
 ## License
 The source code is free for research and education use only. Any comercial use should get formal permission first.
-Part of this code comes from this work:
+Part of code comes from this work:
 ```
 @article{zhu2020deep,
   title={Deep Subdomain Adaptation Network for Image Classification},
