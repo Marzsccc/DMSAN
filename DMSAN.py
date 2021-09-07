@@ -1,9 +1,3 @@
-# SetTime : 2021/7/23 20:34 
-# Coding : utf-8 
-# Author : marzsccc
-# Mail : marzsccc@163.com
-
-
 from __future__ import print_function
 import torch
 import torch.nn.functional as F
