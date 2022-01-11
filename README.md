@@ -26,3 +26,13 @@ Part of code comes from this work:
   publisher={IEEE}
 }
 ```
+Our work：
+```
+@article{yan2021deep,
+  title={Deep Transfer Learning for Cross-Species Plant Disease Diagnosis Adapting Mixed Subdomains},
+  author={Yan, Ke and Guo, Xinlu and Ji, Zhiwei and Zhou, Xiaokang},
+  journal={IEEE/ACM transactions on computational biology and bioinformatics},
+  year={2021},
+  publisher={IEEE}
+}
+```
